@@ -1,0 +1,8 @@
+.projects{
+    background-color: #756e86; 
+    padding: 20px; 
+    border-radius: 10px; 
+    box-shadow: 0px 0px 20px rgba(2, 2, 2, 0.3); 
+    transform: rotateX(5deg) rotateY(5deg); 
+    margin: 20px; 
+}
