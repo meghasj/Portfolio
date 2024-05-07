@@ -81,6 +81,25 @@ a{
 }
 .gif-image{
     position: relative;
-    width: 100px;
-    height: 100px;
+    width: 200px;
+    height: 200px;
+    opacity: 0.5;
+}
+.button{
+    background-color: #756e86; 
+    padding: 10px; 
+    border-radius: 10px; 
+    box-shadow: 0px 0px 20px rgba(241, 237, 237, 0.3); 
+    transform: rotateX(5deg) rotateY(5deg); 
+    margin: 10px; 
+}
+.button:hover{
+    background-color: #756e86; 
+    padding: 20px; 
+    border-radius: 10px; 
+    box-shadow: 0px 0px 20px rgba(241, 237, 237, 0.3); 
+    /* transform: rotateX(5deg) rotateY(5deg);  */
+    transform: padding 2s ease-in-out;
+    margin: 10px; 
+
 }
