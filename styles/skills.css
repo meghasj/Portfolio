@@ -27,7 +27,48 @@
     border-left-color:  rgb(28, 7, 44);
     border-bottom-color: rgb(224, 197, 224);
 }
-
+.progress:nth-child(4) {
+    border-top-color:  rgb(28, 7, 44);
+    border-right-color:  rgb(28, 7, 44);
+    border-left-color:  rgb(224, 197, 224);
+    border-bottom-color: rgb(224, 197, 224);
+}
+.progress:nth-child(5) {
+    border-top-color:  rgb(28, 7, 44);
+    border-right-color:  rgb(28, 7, 44);
+    border-left-color:  rgb(28, 7, 44);
+    border-bottom-color: rgb(224, 197, 224);
+}
+.progress:nth-child(6) {
+    border-top-color:  rgb(28, 7, 44);
+    border-right-color:  rgb(28, 7, 44);
+    border-left-color:  rgb(28, 7, 44);
+    border-bottom-color: rgb(224, 197, 224);
+}
+.progress:nth-child(7) {
+    border-top-color:  rgb(28, 7, 44);
+    border-right-color:  rgb(224, 197, 224);;
+    border-left-color:  rgb(224, 197, 224);;
+    border-bottom-color: rgb(224, 197, 224);
+}
+.progress:nth-child(8) {
+    border-top-color:  rgb(28, 7, 44);
+    border-right-color:  rgb(28, 7, 44);
+    border-left-color:  rgb(28, 7, 44);
+    border-bottom-color: rgb(224, 197, 224);
+}
+.progress:nth-child(9) {
+    border-top-color:  rgb(28, 7, 44);
+    border-right-color:  rgb(28, 7, 44);
+    border-left-color:  rgb(28, 7, 44);
+    border-bottom-color: rgb(224, 197, 224);
+}
+.progress:nth-child(10) {
+    border-top-color:  rgb(28, 7, 44);
+    border-right-color:  rgb(28, 7, 44);
+    border-left-color:  rgb(224, 197, 224);
+    border-bottom-color: rgb(224, 197, 224);
+}
 .progress .progress-values {
     top: 20px;
     position: absolute;
